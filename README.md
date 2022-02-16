@@ -1,5 +1,5 @@
 # tx2ds
-txconverter is a tx16wx sampler conversion tool for the decent sampler format
+txconverter is a tx16wx sampler conversion tool for the decent sampler format, it allows you to design your velocity levels,keys and root notes and then convert out to a dspreset playable instrument file.
 
 <img src="/screenshot.PNG" alt="Alt text" title="Optional title">
 
