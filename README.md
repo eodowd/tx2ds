@@ -1,6 +1,9 @@
 # tx2ds
 txconverter is a tx16wx sampler conversion tool for the decent sampler format
 
+![Screenshot](screenshot.png)
+
+
 # requirements
 ```bash
 pip install git+git://github.com/widdershin/flask-desktop.git
