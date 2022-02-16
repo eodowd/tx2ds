@@ -1,7 +1,7 @@
 # tx2ds
 txconverter is a tx16wx sampler conversion tool for the decent sampler format
 
-![Screenshot](screenshot.png)
+![img](http://https://github.com/eodowd/tx2ds/blob/main/screenshot.PNG)
 
 
 # requirements
